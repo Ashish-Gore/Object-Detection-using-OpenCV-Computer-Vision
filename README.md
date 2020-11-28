@@ -7,6 +7,8 @@ Objectives:
 
 Code: [1. Reading, writing and displaying images OpenCV.ipynb](https://github.com/Ashish-Gore/Object-Detection-using-OpenCV-Computer-Vision/blob/main/1.%20Reading%2C%20writing%20and%20displaying%20images%20OpenCV/1.%20Reading%2C%20writing%20and%20displaying%20images%20OpenCV.ipynb)
 
+Colab Notebook: https://colab.research.google.com/drive/1xQl4ThK_8oY36KmMEO8IK6-SgjA7OCw6?usp=sharing
+
 Input Image:<br>
 ![picture alt](https://github.com/Ashish-Gore/Object-Detection-using-OpenCV-Computer-Vision/blob/main/image_examples/input1_Ashish(1).jpg)
 
@@ -23,6 +25,8 @@ Working of Haar Cascade:
 -A Haar Cascade feature considers adjacent rectangular regions at a specific location in a detection window, sums up the pixel intensities in each region and calculates the difference between these sums. This difference is then used to categorize subsections of an image.
 
 Code: [2. Face & Eye Detection.ipynb](https://github.com/Ashish-Gore/Object-Detection-using-OpenCV-Computer-Vision/blob/main/2.%20Face%20%26%20Eye%20Detection/2.%20Face%20%26%20Eye%20Detection.ipynb)
+
+Colab Notebook: https://colab.research.google.com/drive/15gAf4FUG-TLSTZRpFjhXpoJC8XKHYv3k?usp=sharing
 
 **Tuning Cascade Classifiers
 ourClassifier.detectMultiScale(input image, Scale Factor , Min Neighbors)**
@@ -49,6 +53,9 @@ Objectives:
 -  Car & Pedestrian Detection in the input images using OpenCV Library.
 
 Code: [3. Car & Pedestrian Detection.ipynb](https://github.com/Ashish-Gore/Object-Detection-using-OpenCV-Computer-Vision/blob/main/3.%20Car%20%26%20Pedestrian%20Detection/3.%20Car%20%26%20Pedestrian%20Detection.ipynb)
+
+Colab Notebook: https://colab.research.google.com/drive/1QossV7l5rRgNYoE7WtXuk9806kUEzWGs?usp=sharing
+
 
 Pedestrian Input Image:<br>
 
